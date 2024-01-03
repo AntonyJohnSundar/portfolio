@@ -8,7 +8,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AntonyJohnSundar/fraud_detection)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="/assets/img/frauddetection.jpg"/></center>
 
 ---
 ### Lending Club Case Study
@@ -19,4 +19,4 @@ A case study to understand the driving factors (or driver variables) behind loan
 
 
 
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="/assets/img/Lending money.jpg"/></center>
