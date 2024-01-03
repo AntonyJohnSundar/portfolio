@@ -1,6 +1,18 @@
-title: Antony John Sundar
-#logo: /assets/img/ProfilePhoto.JPEG
-#description: Project Portfolio
-#show_downloads: true
+title: <p align="center"> Antony John Sundar </p>
+#logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/ajscbe/">LinkedIn</a> |
+  <a href="https://github.com/AntonyJohnSundar/">GitHub</a>
+  
+  <br>   
+  I am a seasoned QA Engineer working as a QA Delivery Manager at Fintech company.
+  I am an AI and ML Enthusiast , pusring masters in AI and ML
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
 
