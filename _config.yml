@@ -11,6 +11,8 @@ description:
   <br>
   </p>
 #show_downloads: true
+sass:
+  sass_dir: assets
 
 
 
