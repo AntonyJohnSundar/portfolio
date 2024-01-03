@@ -12,8 +12,8 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 ---
 ### Lending Club Case Study
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AntonyJohnSundar/LendingClubCaseStudy)
-
 A case study to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  This knowledge can be utilise by consumer finacnce organizations for its portfolio and risk assessment. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AntonyJohnSundar/LendingClubCaseStudy)
 
 
