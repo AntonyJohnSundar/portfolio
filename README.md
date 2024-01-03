@@ -15,9 +15,8 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
 
-This is just a collection of topics and algorithms that in my opinion are interesting.
+A case study to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  This knowledge can be utilise by consumer finacnce organizationfor its portfolio and risk assessment. 
 
-It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
-The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
+
 
 <center><img src="images/financial_modeling.jpg"/></center>
